@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨    
-You can find my posts on [Medium](https://medium.com/@ishandeveloper), [DEV](https://dev.to/@ishandeveloper) or [my Personal Blog](https://blog.ishandeveloper.com). ✍  
+#### You can find my posts on [Medium](https://medium.com/@ishandeveloper), [DEV](https://dev.to/@ishandeveloper) or [my Personal Blog](https://blog.ishandeveloper.com). ✍  
 
 🕵 Take a look at my repositories and let's get in touch!
