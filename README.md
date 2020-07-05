@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **ishandeveloper/ishandeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I make elegantly professional web apps and flutter apps for a living and also design user experiences.  
-Take a look at my repositories and let's get in touch!
+I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨    
+You can find my posts on [Medium](https://medium.com/@ishandeveloper), [DEV](https://dev.to/@ishandeveloper) or [my Personal Blog](https://blog.ishandeveloper.com). ✍  
+
+🕵 Take a look at my repositories and let's get in touch!
