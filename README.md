@@ -21,13 +21,13 @@ I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter ap
 [![STACKOVERFLOW][6.1]][6] &nbsp;
 [![WEBSITE][7.1]][7] &nbsp;
 
-[1.1]: http://ishandeveloper.com/icons/twitter.png (Twitter Icon)
-[2.1]: http://ishandeveloper.com/icons/medium.png (Medium Icon)
-[3.1]: http://ishandeveloper.com/icons/dev.png (Dev Icon)
-[4.1]: http://ishandeveloper.com/icons/write.png (Blog Icon)
-[5.1]: http://ishandeveloper.com/icons/linkedin.png (LinkedIn Icon)
-[6.1]: http://ishandeveloper.com/icons/stack-overflow.png (StackOverFlow Icon)
-[7.1]: http://ishandeveloper.com/icons/web.png (Web Icon)
+[1.1]: http://ishandeveloper.com/ishandeveloper/icons/twitter.png (Twitter Icon)
+[2.1]: http://ishandeveloper.com/ishandeveloper/icons/medium.png (Medium Icon)
+[3.1]: http://ishandeveloper.com/ishandeveloper/icons/dev.png (Dev Icon)
+[4.1]: http://ishandeveloper.com/ishandeveloper/icons/write.png (Blog Icon)
+[5.1]: http://ishandeveloper.com/ishandeveloper/icons/linkedin.png (LinkedIn Icon)
+[6.1]: http://ishandeveloper.com/ishandeveloper/icons/stack-overflow.png (StackOverFlow Icon)
+[7.1]: http://ishandeveloper.com/ishandeveloper/icons/web.png (Web Icon)
 
 [1]: https://www.twitter.com/ishandeveloper
 [2]: https://medium.com/@ishandeveloper
