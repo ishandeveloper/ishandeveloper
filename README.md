@@ -1,6 +1,6 @@
 #
 
-<a href="http://ishandeveloper.com"><img src="./hero.png" width="100%"></a>
+<a href="http://ishandeveloper.com"><img src="http://ishandeveloper.com/ishandeveloper/hero.png" width="100%"></a>
 
 #
 
