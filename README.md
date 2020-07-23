@@ -1,3 +1,4 @@
+[![website](https://img.shields.io/badge/Portfolio-ishandeveloper.com-lightgrey?style=for-the-badge&logo=googlechrome)](http://www.ishandeveloper.com)
 
 <a href="http://ishandeveloper.com"><img src="http://ishandeveloper.com/ishandeveloper/hero.png" width="100%"></a>
 
@@ -14,27 +15,26 @@ I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter ap
 - 📭 contact@ishandeveloper.com
 - ✍🏻 I write my personal thoughts on Programming & Tech on on my [Personal Blog](https://blog.ishandeveloper.com)
 
+**Languages and Tools:**  
+
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/flutter.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/dart.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/javascript.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/mongodb.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/express.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/react.svg"></code>&nbsp;
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+
+
 🕵 Take a look at my repositories and let's get in touch!
 
-[![TWITTER][1.1]][1] &nbsp;
-[![MEDIUM][2.1]][2] &nbsp;
-[![DEV.TO][3.1]][3] &nbsp;
-[![BLOG][4.1]][4] &nbsp;
-[![LINKEDIN][5.1]][5] &nbsp;
-[![STACKOVERFLOW][6.1]][6] &nbsp;
-[![WEBSITE][7.1]][7] &nbsp;
-
-[1.1]: http://ishandeveloper.com/ishandeveloper/icons/twitter.png "Twitter Icon"
-[2.1]: http://ishandeveloper.com/ishandeveloper/icons/medium.png "Medium Icon"
-[3.1]: http://ishandeveloper.com/ishandeveloper/icons/dev.png "Dev Icon"
-[4.1]: http://ishandeveloper.com/ishandeveloper/icons/write.png "Blog Icon"
-[5.1]: http://ishandeveloper.com/ishandeveloper/icons/linkedin.png "LinkedIn Icon"
-[6.1]: http://ishandeveloper.com/ishandeveloper/icons/stack-overflow.png "StackOverFlow Icon"
-[7.1]: http://ishandeveloper.com/ishandeveloper/icons/web.png "Web Icon"
-[1]: https://www.twitter.com/ishandeveloper
-[2]: https://medium.com/@ishandeveloper
-[3]: https://dev.to/@ishandeveloper
-[4]: https://blog.ishandeveloper.com
-[5]: https://linkedin.com/in/ishandeveloper
-[6]: https://www.github.com/ishandeveloper
-[7]: http://www.ishandeveloper.com
+<p align="left">
+<a href="https://codepen.io/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dev.to/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/13219775/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13219775/ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/developer.ishan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="developer.ishan" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/ishandeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ishandeveloper" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
