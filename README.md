@@ -1,7 +1,8 @@
 <!-- [![website](https://img.shields.io/badge/Portfolio-ishandeveloper.com-lightgrey?style=for-the-badge&logo=googlechrome)](http://www.ishandeveloper.com)
 -->
 <!--<a href="http://ishandeveloper.com"><img src="http://ishandeveloper.com/ishandeveloper/hero.png" width="100%"></a>-->
-<a href="http://ishandeveloper.com"><img src="https://github-hero-readme-ishandeveloper.vercel.app/api?username=ishandeveloper" width="100%"></a>
+  <img src="https://github-hero-readme-ishandeveloper.vercel.app/api?username=ishandeveloper" width="100%">
+  
 #
 
 I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨
