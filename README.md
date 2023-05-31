@@ -1,8 +1,10 @@
 <!-- [![website](https://img.shields.io/badge/Portfolio-ishandeveloper.com-lightgrey?style=for-the-badge&logo=googlechrome)](http://www.ishandeveloper.com)
 -->
 <!--<a href="http://ishandeveloper.com"><img src="http://ishandeveloper.com/ishandeveloper/hero.png" width="100%"></a>-->
-  <img src="https://readme.ishandeveloper.com/api?username=ishandeveloper&linkedin=ishandeveloper&twitter=ishandeveloper&description=App Developer | Web Developer | UI/UX Designer" width="100%">
+<!--   <img src="https://readme.ishandeveloper.com/api?username=ishandeveloper&linkedin=ishandeveloper&twitter=ishandeveloper&description=App Developer | Web Developer | UI/UX Designer" width="100%"> -->
   
+<img src="https://github.com/ishandeveloper/ishandeveloper/assets/54989142/d655c9f7-df99-4a59-b49d-65e7da1248a3" width="100%">
+
 #
 
 I make elegantly professional **🌍 web apps, 💻.NET apps and 📱 flutter apps** for a living and also **design user experiences** 🎨
